@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sleep on Disconnected</title>
+    <link>https://lucynaess.github.io/disconnected/tags/sleep/</link>
+    <description>Recent content in Sleep on Disconnected</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>lucrecenaess@airmail.cc (Lucrèce Skylar Næss)</managingEditor>
+    <webMaster>lucrecenaess@airmail.cc (Lucrèce Skylar Næss)</webMaster>
+    <copyright>Copyright Lucrèce Skylar Næss 2017. Powered by Hugo.</copyright>
+    <lastBuildDate>Sat, 29 Apr 2017 01:35:01 -0400</lastBuildDate>
+    
+	<atom:link href="https://lucynaess.github.io/disconnected/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Night owl woes</title>
+      <link>https://lucynaess.github.io/disconnected/post/night-owl-woes/</link>
+      <pubDate>Sat, 29 Apr 2017 01:35:01 -0400</pubDate>
+      <author>lucrecenaess@airmail.cc (Lucrèce Skylar Næss)</author>
+      <guid>https://lucynaess.github.io/disconnected/post/night-owl-woes/</guid>
+      <description>I thought I&amp;rsquo;d write something a bit less heavy this time. I&amp;rsquo;m a &amp;ldquo;night owl&amp;rdquo;, which if you don&amp;rsquo;t know what that means, I basically am awake mostly in the afternoon and at very late hours in the night / early morning (the opposite of most people). I also happen to live in a small town (ironically, the larget in my county), so there&amp;rsquo;s really nothing much to do at night since the town is &amp;ldquo;dead&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
