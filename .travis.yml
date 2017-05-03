@@ -7,4 +7,4 @@ install:
  - govendor get github.com/spf13/hugo
 
 script:
- - hugo --cleanDestinationDir -s disconnected/ -d ../docs
+ - hugo --cleanDestinationDir -s disconnected/ -d ../docs --theme=slim

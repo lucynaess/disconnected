@@ -8,7 +8,6 @@ name = "Lucrèce Skylar Næss"
 email = "lucrecenaess@airmail.cc"
 
 [params]
-theme = "slim"
 AuthorName = "Lucrèce Skylar Næss"
 description = "A blog"
 GithubID = "lucynaess"
