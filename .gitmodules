@@ -1,0 +1,3 @@
+[submodule "disconnected/themes/slim"]
+	path = disconnected/themes/slim
+	url = https://github.com/zhe/hugo-theme-slim
