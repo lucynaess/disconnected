@@ -4,6 +4,7 @@ draft = false
 title = "Dysphoria Continued: NSFW"
 tags = ["dysphoria", "crossdressing", "stigma", "gender"]
 categories = ["mental health", "nsfw"]
+series = ["dysphoria"]
 +++
 
 ## Limbo

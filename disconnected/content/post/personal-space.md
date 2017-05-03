@@ -4,6 +4,7 @@ draft = false
 title = "Personal Space: NSFW"
 tags = ["intimacy", "relationships", "trust", "abuse"]
 categories = ["mental health", "nsfw"]
+series = ["trust"]
 +++
 
 ## Preface

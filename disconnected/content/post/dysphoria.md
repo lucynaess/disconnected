@@ -4,6 +4,7 @@ draft = false
 title = "Dysphoria: NSFW"
 tags = ["crossdressing", "identity", "gender", "dyshporia", "intimacy", "relaionships"]
 categories = ["mental health", "nsfw"]
+series = ["dysphoria"]
 +++
 
 # Preface: NSFW.
