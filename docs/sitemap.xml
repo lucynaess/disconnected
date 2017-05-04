@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lucynaess.github.io/disconnected/post/trust/</loc>
+    <lastmod>2017-05-04T01:20:28-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lucynaess.github.io/disconnected/post/dysphoria-continued/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
   </url>
   
   <url>
@@ -19,12 +24,12 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/post/personal-space/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/post/dysphoria/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
   </url>
   
   <url>
@@ -33,13 +38,8 @@
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lucynaess.github.io/disconnected/tags/abuse/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,13 +50,13 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/crossdressing/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-04T01:20:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -73,14 +73,20 @@
   </url>
   
   <url>
+    <loc>https://lucynaess.github.io/disconnected/series/dysphoria/</loc>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lucynaess.github.io/disconnected/tags/dysphoria/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/gender/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,31 +104,37 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/categories/mental-health/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-04T01:20:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/categories/nsfw/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/post/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-04T01:20:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/relaionships/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/relationships/</loc>
     <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lucynaess.github.io/disconnected/series/</loc>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -134,19 +146,25 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/stigma/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-03T03:41:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lucynaess.github.io/disconnected/series/trust/</loc>
+    <lastmod>2017-05-04T01:20:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/trust/</loc>
-    <lastmod>2017-05-03T02:32:22-04:00</lastmod>
+    <lastmod>2017-05-04T01:20:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   

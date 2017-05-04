@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trust on Disconnected</title>
-    <link>https://lucynaess.github.io/disconnected/tags/trust/</link>
+    <link>https://lucynaess.github.io/disconnected/series/trust/</link>
     <description>Recent content in Trust on Disconnected</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,7 +11,7 @@
     <copyright>Copyright Lucrèce Skylar Næss 2017. Powered by Hugo.</copyright>
     <lastBuildDate>Thu, 04 May 2017 01:20:16 -0400</lastBuildDate>
     
-	<atom:link href="https://lucynaess.github.io/disconnected/tags/trust/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lucynaess.github.io/disconnected/series/trust/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
