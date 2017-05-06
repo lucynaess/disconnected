@@ -9,7 +9,7 @@
     <managingEditor>lucrecenaess@airmail.cc (Lucrèce Skylar Næss)</managingEditor>
     <webMaster>lucrecenaess@airmail.cc (Lucrèce Skylar Næss)</webMaster>
     <copyright>Copyright Lucrèce Skylar Næss 2017. Powered by Hugo.</copyright>
-    <lastBuildDate>Tue, 02 May 2017 01:58:46 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2017 02:07:18 -0400</lastBuildDate>
     
 	<atom:link href="https://lucynaess.github.io/disconnected/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +17,18 @@
     <item>
       <title>Dysphoria</title>
       <link>https://lucynaess.github.io/disconnected/series/dysphoria/</link>
-      <pubDate>Tue, 02 May 2017 01:58:46 -0400</pubDate>
+      <pubDate>Sat, 06 May 2017 02:07:18 -0400</pubDate>
       <author>lucrecenaess@airmail.cc (Lucrèce Skylar Næss)</author>
       <guid>https://lucynaess.github.io/disconnected/series/dysphoria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feeling Comfortable</title>
+      <link>https://lucynaess.github.io/disconnected/series/feeling-comfortable/</link>
+      <pubDate>Sat, 06 May 2017 02:07:18 -0400</pubDate>
+      <author>lucrecenaess@airmail.cc (Lucrèce Skylar Næss)</author>
+      <guid>https://lucynaess.github.io/disconnected/series/feeling-comfortable/</guid>
       <description></description>
     </item>
     
