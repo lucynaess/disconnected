@@ -1,6 +1,6 @@
 +++
-date = "2017-06-25T03:03:24-04:00"
-draft = true
+date = "2017-06-25T03:05:56-04:00"
+draft = false
 title = "Hiatus"
 tags = ["hiatus", "life", "busy"]
 +++
