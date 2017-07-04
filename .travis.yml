@@ -1,6 +1,6 @@
 language: go
 
-distro: trusty
+dist: trusty
 sudo: false
 
 install:
