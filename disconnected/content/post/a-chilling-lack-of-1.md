@@ -4,7 +4,7 @@ draft = false
 title = "A Chilling Lack of Discomfort part 1"
 tags = ["identity", "gender", "dyshporia", "transgender", "dissociation"]
 categories = ["mental health"]
-serues = ["A Chilling Lack of Discomfort"]
+series = ["A Chilling Lack of Discomfort"]
 +++
 
 ## Depersonalization and being Transgender.
