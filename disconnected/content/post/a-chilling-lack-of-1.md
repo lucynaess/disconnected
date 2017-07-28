@@ -1,7 +1,7 @@
 +++
 date = "2017-06-25T02:59:46-04:00"
 draft = false
-title = "A Chilling Lack of Discomfort part 1"
+title = "A Chilling Lack of Discomfort Part 1"
 tags = ["identity", "gender", "dyshporia", "transgender", "dissociation"]
 categories = ["mental health"]
 series = ["A Chilling Lack of Discomfort"]
