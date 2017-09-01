@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lucynaess.github.io/disconnected/post/sex-is-sex/</loc>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lucynaess.github.io/disconnected/post/racing-thoughts/</loc>
     <lastmod>2017-07-11T08:35:35-04:00</lastmod>
   </url>
@@ -86,6 +91,12 @@
   </url>
   
   <url>
+    <loc>https://lucynaess.github.io/disconnected/tags/choices/</loc>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lucynaess.github.io/disconnected/tags/crossdressing/</loc>
     <lastmod>2017-05-05T23:32:21-04:00</lastmod>
     <priority>0</priority>
@@ -93,7 +104,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/</loc>
-    <lastmod>2017-07-11T08:35:35-04:00</lastmod>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,7 +116,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/dissociation/</loc>
-    <lastmod>2017-07-04T04:31:29-04:00</lastmod>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -116,13 +127,13 @@
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/series/dysphoria/</loc>
+    <loc>https://lucynaess.github.io/disconnected/tags/dysphoria/</loc>
     <lastmod>2017-05-05T23:32:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/tags/dysphoria/</loc>
+    <loc>https://lucynaess.github.io/disconnected/series/dysphoria/</loc>
     <lastmod>2017-05-05T23:32:21-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -135,7 +146,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/gender/</loc>
-    <lastmod>2017-07-28T01:56:08-04:00</lastmod>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,7 +164,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/identity/</loc>
-    <lastmod>2017-07-04T04:31:29-04:00</lastmod>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -165,13 +176,13 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/life/</loc>
-    <lastmod>2017-06-25T03:06:27-04:00</lastmod>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/categories/mental-health/</loc>
-    <lastmod>2017-07-11T08:35:35-04:00</lastmod>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,13 +194,19 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/post/</loc>
-    <lastmod>2017-07-11T08:35:35-04:00</lastmod>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/racing/</loc>
     <lastmod>2017-07-11T08:35:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lucynaess.github.io/disconnected/tags/regret/</loc>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -208,6 +225,12 @@
   <url>
     <loc>https://lucynaess.github.io/disconnected/series/</loc>
     <lastmod>2017-07-28T01:56:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lucynaess.github.io/disconnected/tags/sex/</loc>
+    <lastmod>2017-09-01T03:50:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -242,13 +265,13 @@
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/series/trust/</loc>
+    <loc>https://lucynaess.github.io/disconnected/tags/trust/</loc>
     <lastmod>2017-05-04T01:19:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/tags/trust/</loc>
+    <loc>https://lucynaess.github.io/disconnected/series/trust/</loc>
     <lastmod>2017-05-04T01:19:30-04:00</lastmod>
     <priority>0</priority>
   </url>
