@@ -4,20 +4,20 @@ title: "Disconnected"
 copyright: "Copyright Lucrèce Skylar Næss 2017. Powered by Hugo."
 
 author:
-name: "Lucrèce Skylar Næss"
-email: "lucrecenaess@airmail.cc"
+        name: "Lucrèce Skylar Næss"
+        email: "lucrecenaess@airmail.cc"
 
 params:
-AuthorName: "Lucrèce Skylar Næss"
-description: "A blog"
-GithubID: "lucynaess"
-TwitterID: "@lucynaess"
-Summary: false
-Content: false
-enableGitinfo: true
-preserveTaxonomyNames: true
+        AuthorName: "Lucrèce Skylar Næss"
+        description: "A blog"
+        GithubID: "lucynaess"
+        TwitterID: "@lucynaess"
+        Summary: false
+        Content: false
+        enableGitinfo: true
+        preserveTaxonomyNames: true
 
 taxonomies:
-tag: "tags"
-category: "categories"
-series: "series"
+        tag: "tags"
+        category: "categories"
+        series: "series"
