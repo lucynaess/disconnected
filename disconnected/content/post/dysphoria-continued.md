@@ -1,11 +1,11 @@
-+++
-date = "2017-05-02T01:58:46-04:00"
-draft = false
-title = "Dysphoria Continued: NSFW"
-tags = ["dysphoria", "crossdressing", "stigma", "gender"]
-categories = ["mental health", "nsfw"]
-series = ["dysphoria"]
-+++
+---
+date: "2017-05-02T01:58:46-04:00"
+draft: false
+title: "Dysphoria Continued: NSFW"
+tags: ["dysphoria", "crossdressing", "stigma", "gender"]
+categories: ["mental health", "nsfw"]
+series: ["dysphoria"]
+---
 
 ## Limbo
 

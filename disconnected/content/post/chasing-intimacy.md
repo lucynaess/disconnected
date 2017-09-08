@@ -1,9 +1,9 @@
-+++
-title = "Chasing Intimacy"
-date = "2017-09-05T04:12:22-04:00"
-tags = ["identity", "gender", "sex", "dissociation", "life", "choices", "regret"]
-categories = ["mental health"]
-+++
+---
+title: "Chasing Intimacy"
+date: "2017-09-05T04:12:22-04:00"
+tags: ["identity", "gender", "sex", "dissociation", "life", "choices", "regret"]
+categories: ["mental health"]
+---
 
 ## Preface
 

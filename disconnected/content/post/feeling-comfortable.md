@@ -1,11 +1,11 @@
-+++
-date = "2017-05-06T02:07:18-04:00"
-draft = false
-title = "Feeling Comfortable"
-tags = [ "gender", "identity", "dysphoria", "discrimination" ]
-categories = [ "mental health" ]
-series = ["dysphoria", "Feeling Comfortable"]
-+++
+---
+date: "2017-05-06T02:07:18-04:00"
+draft: false
+title: "Feeling Comfortable"
+tags: [ "gender", "identity", "dysphoria", "discrimination" ]
+categories: [ "mental health" ]
+series: ["dysphoria", "Feeling Comfortable"]
+---
 
 ## A bit of a problem
 

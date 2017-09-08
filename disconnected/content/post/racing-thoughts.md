@@ -1,10 +1,10 @@
-+++
-date = "2017-07-11T08:35:07-04:00"
-draft = false
-title = "Racing Thoughts"
-tags = [ "thoughts", "racing" ]
-categories = ["mental health" ]
-+++
+---
+date: "2017-07-11T08:35:07-04:00"
+draft: false
+title: "Racing Thoughts"
+tags: [ "thoughts", "racing" ]
+categories: ["mental health" ]
+---
 
 ## A Curse and a Blessing
 

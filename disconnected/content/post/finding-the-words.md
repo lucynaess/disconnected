@@ -1,10 +1,10 @@
-+++
-date = "2017-07-04T04:28:20-04:00"
-draft = false
-title = "Finding The Words"
-tags = ["identity", "dissociation"]
-categories = ["mental health"]
-+++
+---
+date: "2017-07-04T04:28:20-04:00"
+draft: false
+title: "Finding The Words"
+tags: ["identity", "dissociation"]
+categories: ["mental health"]
+---
 
 ## A bit of Preface
 

@@ -1,9 +1,9 @@
-+++
-date = "2017-06-25T03:05:56-04:00"
-draft = false
-title = "Hiatus"
-tags = ["hiatus", "life", "busy"]
-+++
+---
+date: "2017-06-25T03:05:56-04:00"
+draft: false
+title: "Hiatus"
+tags: ["hiatus", "life", "busy"]
+---
 
 # Hey
 

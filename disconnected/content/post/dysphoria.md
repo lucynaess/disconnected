@@ -1,11 +1,11 @@
-+++
-date = "2017-04-27T01:55:31-04:00"
-draft = false
-title = "Dysphoria: NSFW"
-tags = ["crossdressing", "identity", "gender", "dyshporia", "intimacy", "relaionships"]
-categories = ["mental health", "nsfw"]
-series = ["dysphoria"]
-+++
+---
+date: "2017-04-27T01:55:31-04:00"
+draft: false
+title: "Dysphoria: NSFW"
+tags: ["crossdressing", "identity", "gender", "dyshporia", "intimacy", "relaionships"]
+categories: ["mental health", "nsfw"]
+series: ["dysphoria"]
+---
 
 # Preface: NSFW.
 

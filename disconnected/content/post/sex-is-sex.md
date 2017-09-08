@@ -1,10 +1,10 @@
-+++
-date = "2017-09-01T03:49:46-04:00"
-draft = false
-title= "Sex, is Sex: NSFW"
-tags = ["identity", "gender", "sex", "dissociation", "life", "choices", "regret"]
-categories = ["mental health"]
-+++
+---
+date: "2017-09-01T03:49:46-04:00"
+draft: false
+title: "Sex, is Sex: NSFW"
+tags: ["identity", "gender", "sex", "dissociation", "life", "choices", "regret"]
+categories: ["mental health"]
+---
 
 ## Preface
 

@@ -1,11 +1,11 @@
-+++
-date = "2017-05-04T01:20:16-04:00"
-draft = false
-title = "Trust"
-tags = ["trust"]
-categories = ["mental health"]
-series = ["trust"]
-+++
+---
+date: "2017-05-04T01:20:16-04:00"
+draft: false
+title: "Trust"
+tags: ["trust"]
+categories: ["mental health"]
+series: ["trust"]
+---
 
 ## Preface
 

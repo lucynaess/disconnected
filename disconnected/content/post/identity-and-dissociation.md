@@ -1,10 +1,10 @@
-+++
-date = "2017-05-01T02:03:09-04:00"
-draft = false
-title = "Identity and Dissociation"
-tags = ["dissociation", "identity", "dyshporia", "relationships", "intimacy"]
-categories = [ "mental health", "nsfw"]
-+++
+---
+date: "2017-05-01T02:03:09-04:00"
+draft: false
+title: "Identity and Dissociation"
+tags: ["dissociation", "identity", "dyshporia", "relationships", "intimacy"]
+categories: [ "mental health", "nsfw"]
+---
 
 ![name](/disconnected/post/images/quote.png)
 

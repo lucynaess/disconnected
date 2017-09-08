@@ -1,11 +1,11 @@
-+++
-date = "2017-04-28T03:37:59-04:00"
-draft = false
-title = "Personal Space: NSFW"
-tags = ["intimacy", "relationships", "trust", "abuse"]
-categories = ["mental health", "nsfw"]
-series = ["trust"]
-+++
+---
+date: "2017-04-28T03:37:59-04:00"
+draft: false
+title: "Personal Space: NSFW"
+tags: ["intimacy", "relationships", "trust", "abuse"]
+categories: ["mental health", "nsfw"]
+series: ["trust"]
+---
 
 ## Preface
 
