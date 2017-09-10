@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lucynaess.github.io/disconnected/post/foolish-bravado/</loc>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lucynaess.github.io/disconnected/post/chasing-intimacy/</loc>
     <lastmod>2017-09-08T03:17:18-04:00</lastmod>
   </url>
@@ -85,6 +90,12 @@
   </url>
   
   <url>
+    <loc>https://lucynaess.github.io/disconnected/tags/bravado/</loc>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lucynaess.github.io/disconnected/tags/busy/</loc>
     <lastmod>2017-09-08T03:17:18-04:00</lastmod>
     <priority>0</priority>
@@ -97,7 +108,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/choices/</loc>
-    <lastmod>2017-09-08T03:17:18-04:00</lastmod>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -109,7 +120,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/</loc>
-    <lastmod>2017-09-08T03:17:18-04:00</lastmod>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -121,12 +132,18 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/dissociation/</loc>
-    <lastmod>2017-09-08T03:17:18-04:00</lastmod>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/dyshporia/</loc>
+    <lastmod>2017-09-08T03:17:18-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lucynaess.github.io/disconnected/series/dysphoria/</loc>
     <lastmod>2017-09-08T03:17:18-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -138,8 +155,8 @@
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/series/dysphoria/</loc>
-    <lastmod>2017-09-08T03:17:18-04:00</lastmod>
+    <loc>https://lucynaess.github.io/disconnected/tags/emotions/</loc>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -181,13 +198,13 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/life/</loc>
-    <lastmod>2017-09-08T03:17:18-04:00</lastmod>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/categories/mental-health/</loc>
-    <lastmod>2017-09-08T03:17:18-04:00</lastmod>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,7 +216,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/post/</loc>
-    <lastmod>2017-09-08T03:17:18-04:00</lastmod>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,7 +228,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/regret/</loc>
-    <lastmod>2017-09-08T03:17:18-04:00</lastmod>
+    <lastmod>2017-09-10T19:34:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -270,13 +287,13 @@
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/tags/trust/</loc>
+    <loc>https://lucynaess.github.io/disconnected/series/trust/</loc>
     <lastmod>2017-09-08T03:17:18-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/series/trust/</loc>
+    <loc>https://lucynaess.github.io/disconnected/tags/trust/</loc>
     <lastmod>2017-09-08T03:17:18-04:00</lastmod>
     <priority>0</priority>
   </url>
