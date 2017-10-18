@@ -3,6 +3,7 @@ title: "Foolish Bravado?"
 date: 2017-09-10T19:35:01-04:00
 tags: ["bravado", "dissociation", "emotions", "life", "choices", "regret"]
 categories: ["mental health"]
+series: ["Ace and I"]
 ---
 
 I was foolish...oh so foolish, to think nothing would come of that week with Ace.
