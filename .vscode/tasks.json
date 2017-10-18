@@ -1,0 +1,45 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "taskName": "Preview",
+            "type": "process",
+            "command": "hugo",
+            "args": [
+                "serve",
+                "--theme=slim",
+                "--source=source",
+                "--buildDrafts"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "taskName": "Build Blog",
+            "type": "process",
+            "command": "hugo",
+            "args": [
+                "--cleanDestinationDir",
+                "--source=source",
+                "--destination=../docs",
+                "--theme=slim",
+                "--enableGitInfo"
+            ],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "taskName": "Undraft",
+            "type": "process",
+            "command": "hugo",
+            "args": [
+                "undraft",
+                "--config=source/config.yml",
+                "${file}"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}
