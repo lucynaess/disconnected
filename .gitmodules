@@ -1,3 +1,3 @@
-[submodule "disconnected/themes/slim"]
-	path = source/themes/slim
-	url = https://github.com/zhe/hugo-theme-slim
+[submodule "source/themes/kiss"]
+	path = source/themes/kiss
+	url = https://github.com/ribice/kiss.git
