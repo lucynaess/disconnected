@@ -5,9 +5,13 @@
             "taskName": "Preview",
             "type": "process",
             "command": "hugo",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
             "args": [
                 "serve",
-                "--theme=slim",
+                "--theme=kiss",
                 "--source=source",
                 "--buildDrafts"
             ],
@@ -21,7 +25,7 @@
                 "--cleanDestinationDir",
                 "--source=source",
                 "--destination=../docs",
-                "--theme=slim",
+                "--theme=kiss",
                 "--enableGitInfo"
             ],
             "problemMatcher": [],
