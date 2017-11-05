@@ -1,7 +1,6 @@
 baseurl: "https://lucynaess.github.io/disconnected/"
 languageCode: "en-us"
 title: "Disconnected"
-theme: "kiss"
 copyright: "Copyright Lucrèce Skylar Næss 2017."
 enableRobotsTXT: true
 
