@@ -2,7 +2,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "taskName": "Preview",
+            "label": "Preview",
             "type": "process",
             "command": "hugo",
             "group": {
@@ -18,7 +18,7 @@
             "problemMatcher": []
         },
         {
-            "taskName": "Build Blog",
+            "label": "Build Blog",
             "type": "process",
             "command": "hugo",
             "args": [
@@ -35,7 +35,7 @@
             }
         },
         {
-            "taskName": "Undraft",
+            "label": "Undraft",
             "type": "process",
             "command": "hugo",
             "args": [
