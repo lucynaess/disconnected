@@ -4,8 +4,10 @@ dist: trusty
 sudo: false
 
 install:
- - go get github.com/kardianos/govendor
- - govendor get github.com/spf13/hugo
+ - wget https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.tar.gz
+ - tar xvf hugo_0.31.1_Linux-64bit.tar.gz
+ - mv hugo $GOPATH/bin/
+ - rm README.md LICENSE.md
 
 script:
  - hugo --cleanDestinationDir -s source/ -d ../docs --theme=kiss --enableGitInfo
