@@ -1,12 +1,9 @@
 ---
 title: "What Do I Do?"
-date: 2018-01-01T04:40:05-05:00
-draft: true
+date: 2018-01-01T05:15:37-05:00
 tags: ["love", "confusion", "relationships", "emotions"]
 catergories: ["love"]
 ---
-
-
 
 Cesc has my heart, but I feel we're too different. The first major difference
 between us I can think of is that Cesc wants kids and I **really** don't, I
