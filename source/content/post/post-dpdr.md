@@ -28,6 +28,7 @@ thoughts like:
 
 - What if they don't accept me?
 - What if they get irrationally upset?
+- What if they don't accept my new name?
 
 Which ultimately leads me to not wanting to tell them because these thoughts
 will just pile up and stress me out.
