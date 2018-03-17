@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/post/post-dpdr/</loc>
-    <lastmod>2018-03-17T02:19:12-04:00</lastmod>
+    <lastmod>2018-03-17T02:23:45-04:00</lastmod>
   </url>
   
   <url>
@@ -127,7 +127,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/anxiety/</loc>
-    <lastmod>2018-03-17T02:19:12-04:00</lastmod>
+    <lastmod>2018-03-17T02:23:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -180,7 +180,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/</loc>
-    <lastmod>2018-03-17T02:19:12-04:00</lastmod>
+    <lastmod>2018-03-17T02:23:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -203,13 +203,13 @@
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/series/dysphoria/</loc>
+    <loc>https://lucynaess.github.io/disconnected/tags/dysphoria/</loc>
     <lastmod>2017-09-15T00:12:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lucynaess.github.io/disconnected/tags/dysphoria/</loc>
+    <loc>https://lucynaess.github.io/disconnected/series/dysphoria/</loc>
     <lastmod>2017-09-15T00:12:45-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -282,7 +282,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/categories/mental-health/</loc>
-    <lastmod>2018-03-17T02:19:12-04:00</lastmod>
+    <lastmod>2018-03-17T02:23:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -300,7 +300,7 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/post/</loc>
-    <lastmod>2018-03-17T02:19:12-04:00</lastmod>
+    <lastmod>2018-03-17T02:23:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -366,24 +366,24 @@
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/transgender/</loc>
-    <lastmod>2018-03-17T02:19:12-04:00</lastmod>
+    <lastmod>2018-03-17T02:23:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/categories/transition/</loc>
-    <lastmod>2018-03-17T02:19:12-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lucynaess.github.io/disconnected/series/trust/</loc>
-    <lastmod>2017-09-15T00:12:45-04:00</lastmod>
+    <lastmod>2018-03-17T02:23:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lucynaess.github.io/disconnected/tags/trust/</loc>
+    <lastmod>2017-09-15T00:12:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lucynaess.github.io/disconnected/series/trust/</loc>
     <lastmod>2017-09-15T00:12:45-04:00</lastmod>
     <priority>0</priority>
   </url>
