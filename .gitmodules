@@ -1,6 +1,3 @@
-[submodule "source/themes/kiss"]
-	path = source/themes/kiss
-	url = https://github.com/ribice/kiss.git
 [submodule "source/themes/kips"]
 	path = source/themes/kips
 	url = https://github.com/lucynaess/kips.git
