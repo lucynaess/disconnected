@@ -8,7 +8,7 @@ This repo is under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 I
 
 - <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">disconnected</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://lucynaess.github.io/disconnected/" property="cc:attributionName" rel="cc:attributionURL">Lucrèce Skylar Næss</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/lucynaess/disconnected" rel="dct:source">https://github.com/lucynaess/disconnected</a>.
 
-- The [kiss](https://github.com/ribice/kiss) hugo theme is under the [MIT license](https://github.com/ribice/kiss/blob/master/LICENSE.md).
+- The [kips](https://github.com/lucynaess/kips) hugo theme is under the [MIT license](https://github.com/lucynaess/kips/blob/master/LICENSE.md).
 
 ## Authors:
 
