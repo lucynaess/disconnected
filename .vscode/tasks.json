@@ -11,7 +11,7 @@
             },
             "args": [
                 "serve",
-                "--theme=kips",
+                "--theme=kiss",
                 "--source=source",
                 "--buildDrafts"
             ],
@@ -25,7 +25,7 @@
                 "--cleanDestinationDir",
                 "--source=source",
                 "--destination=../docs",
-                "--theme=kips",
+                "--theme=kiss",
                 "--enableGitInfo"
             ],
             "problemMatcher": [],

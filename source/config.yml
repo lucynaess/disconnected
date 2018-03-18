@@ -10,6 +10,8 @@ author:
 
 
 params:
+        assets:
+                customCSS: ["css/custom.css"]
         info:
                 enableScoial: true
                 poweredby: true
