@@ -10,4 +10,4 @@ install:
  - rm README.md LICENSE.md
 
 script:
- - hugo --cleanDestinationDir -s source/ -d ../docs --theme=kiss --enableGitInfo
+ - hugo --cleanDestinationDir -s source/ -d ../docs --theme=kips --enableGitInfo
