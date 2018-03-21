@@ -33,17 +33,6 @@
                 "kind": "build",
                 "isDefault": true
             }
-        },
-        {
-            "label": "Undraft",
-            "type": "process",
-            "command": "hugo",
-            "args": [
-                "undraft",
-                "--config=source/config.yml",
-                "${file}"
-            ],
-            "problemMatcher": []
         }
     ]
 }
