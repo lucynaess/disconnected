@@ -17,13 +17,13 @@ params:
                 poweredby: true
                 homeTitle: "Disconnected"
         social:
-                twitter: "@lucynaess"
+                twitter: "lucynaess"
                 github: "lucynaess"
                 instagram: "lucynaess"
                 email: "lucrecenaess@airmail.cc"
         opengraph:
                 twitter:
-                        page: "@lucynaess"
+                        page: "lucynaess"
         AuthorName: "Lucrèce Skylar Næss"
         description: "A blog"
         enableGitinfo: true
