@@ -20,7 +20,7 @@ params:
                 twitter: "lucynaess"
                 github: "lucynaess"
                 email: "lucrecenaess@airmail.cc"
-                rss: "index.xml"
+                rss: "disconnected/index.xml"
                 config:
                         platforms: ["github", "twitter", "email", "rss"]
         AuthorName: "Lucrèce Skylar Næss"
