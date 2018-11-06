@@ -1,29 +1,28 @@
 baseurl: "https://lucynaess.github.io/disconnected/"
 languageCode: "en-us"
 title: "Disconnected"
-copyright: "Copyright Lucrèce Skylar Næss 2018."
+copyright: "Copyright Lucrèce Skylar Næss 2018"
 enableRobotsTXT: true
-
-author:
-        name: "Lucrèce Skylar Næss"
-        email: "lucrecenaess@airmail.cc"
-
 
 params:
         assets:
                 customCSS: ["css/custom.css"]
         info:
                 enableScoial: true
-                poweredby: true
+                poweredBy: true
                 homeTitle: "Disconnected"
+                related: true
+        rss:
+                includeContent: true
+                authorName: "Lucrèce Skylar Næss"
+                authorEmail: "lucrecenaess@airmail.cc"
         social:
                 twitter: "lucynaess"
                 github: "lucynaess"
-                instagram: "lucynaess"
                 email: "lucrecenaess@airmail.cc"
-        opengraph:
-                twitter:
-                        page: "lucynaess"
+                rss: "index.xml"
+                config:
+                        platforms: ["github", "twitter", "email", "rss"]
         AuthorName: "Lucrèce Skylar Næss"
         description: "A blog"
         enableGitinfo: true
