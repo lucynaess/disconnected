@@ -4,8 +4,8 @@ dist: trusty
 sudo: false
 
 install:
- - wget  https://github.com/gohugoio/hugo/releases/download/v0.50/hugo_0.50_Linux-64bit.tar.gz
- - tar xvf hugo_0.50_Linux-64bit.tar.gz
+ - wget  https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.tar.gz
+ - tar xvf hugo_0.53_Linux-64bit.tar.gz
  - mv hugo $GOPATH/bin/
  - rm README.md LICENSE
 
