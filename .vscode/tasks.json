@@ -4,15 +4,22 @@
         {
             "label": "Preview",
             "type": "process",
-            "command": "/home/${env:USER}/.local/bin/hugo",
+            "command": "podman",
             "group": {
                 "kind": "test",
                 "isDefault": true
             },
             "args": [
+                "run",
+                "--rm",
+                "--net=host",
+                "--name=hp",
+                "-v",
+                "${workspaceFolder}:/workspace:z",
+                "quay.io/adrianlucrececeleste/hugo-oci:v0.53",
                 "serve",
                 "--theme=kiss",
-                "--source=source",
+                "--source=/workspace/source",
                 "--buildDrafts"
             ],
             "problemMatcher": []
@@ -20,13 +27,19 @@
         {
             "label": "Build Blog",
             "type": "process",
-            "command": "/home/${env:USER}/.local/bin/hugo",
+            "command": "podman",
             "args": [
+                "run",
+                "--rm",
+                "--net=host",
+                "--name=hb-$(git rev-parse HEAD)",
+                "-v",
+                "${workspaceFolder}:/workspace:z",
+                "quay.io/adrianlucrececeleste/hugo-oci:v0.53",
                 "--cleanDestinationDir",
-                "--source=source",
-                "--destination=../docs",
+                "--source=/workspace/source",
+                "--destination=/workspace/docs",
                 "--theme=kiss",
-                "--enableGitInfo"
             ],
             "problemMatcher": [],
             "group": {
