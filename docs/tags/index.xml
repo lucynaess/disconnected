@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Disconnected</title>
@@ -7,130 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright Lucrèce Skylar Næss 2018</copyright>
-    <lastBuildDate>Fri, 28 Apr 2017 03:37:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 22 May 2018 04:27:40 -0400</lastBuildDate>
     
 	<atom:link href="https://lucynaess.github.io/disconnected/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Abuse</title>
-      <link>https://lucynaess.github.io/disconnected/tags/abuse/</link>
-      <pubDate>Fri, 28 Apr 2017 03:37:59 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/abuse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anxiety</title>
-      <link>https://lucynaess.github.io/disconnected/tags/anxiety/</link>
-      <pubDate>Thu, 15 Mar 2018 01:44:25 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/anxiety/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Background</title>
-      <link>https://lucynaess.github.io/disconnected/tags/background/</link>
-      <pubDate>Sun, 05 Nov 2017 15:28:28 -0500</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/background/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bravado</title>
-      <link>https://lucynaess.github.io/disconnected/tags/bravado/</link>
-      <pubDate>Wed, 18 Oct 2017 03:10:32 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/bravado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Busy</title>
-      <link>https://lucynaess.github.io/disconnected/tags/busy/</link>
-      <pubDate>Sun, 25 Jun 2017 03:05:56 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/busy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Choices</title>
-      <link>https://lucynaess.github.io/disconnected/tags/choices/</link>
-      <pubDate>Wed, 21 Mar 2018 02:04:04 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/choices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confusion</title>
-      <link>https://lucynaess.github.io/disconnected/tags/confusion/</link>
-      <pubDate>Fri, 02 Feb 2018 02:45:49 -0500</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/confusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crossdressing</title>
-      <link>https://lucynaess.github.io/disconnected/tags/crossdressing/</link>
-      <pubDate>Tue, 02 May 2017 01:58:46 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/crossdressing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Depersonalization</title>
-      <link>https://lucynaess.github.io/disconnected/tags/depersonalization/</link>
-      <pubDate>Fri, 02 Feb 2018 02:53:58 -0500</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/depersonalization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discrimination</title>
-      <link>https://lucynaess.github.io/disconnected/tags/discrimination/</link>
-      <pubDate>Sat, 06 May 2017 02:07:18 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/discrimination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dissociation</title>
-      <link>https://lucynaess.github.io/disconnected/tags/dissociation/</link>
-      <pubDate>Fri, 02 Feb 2018 02:53:58 -0500</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/dissociation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dyshporia</title>
-      <link>https://lucynaess.github.io/disconnected/tags/dyshporia/</link>
-      <pubDate>Sun, 25 Jun 2017 02:59:46 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/dyshporia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dysphoria</title>
-      <link>https://lucynaess.github.io/disconnected/tags/dysphoria/</link>
-      <pubDate>Sat, 06 May 2017 02:07:18 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/dysphoria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emotions</title>
+      <title>emotions</title>
       <link>https://lucynaess.github.io/disconnected/tags/emotions/</link>
       <pubDate>Tue, 22 May 2018 04:27:40 -0400</pubDate>
       
@@ -139,43 +22,7 @@
     </item>
     
     <item>
-      <title>Exhaustion</title>
-      <link>https://lucynaess.github.io/disconnected/tags/exhaustion/</link>
-      <pubDate>Fri, 02 Feb 2018 02:45:49 -0500</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/exhaustion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gender</title>
-      <link>https://lucynaess.github.io/disconnected/tags/gender/</link>
-      <pubDate>Tue, 05 Sep 2017 04:12:22 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/gender/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healing</title>
-      <link>https://lucynaess.github.io/disconnected/tags/healing/</link>
-      <pubDate>Wed, 18 Oct 2017 03:10:32 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/healing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hiatus</title>
-      <link>https://lucynaess.github.io/disconnected/tags/hiatus/</link>
-      <pubDate>Sun, 25 Jun 2017 03:05:56 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/hiatus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identity</title>
+      <title>identity</title>
       <link>https://lucynaess.github.io/disconnected/tags/identity/</link>
       <pubDate>Tue, 22 May 2018 04:27:40 -0400</pubDate>
       
@@ -184,70 +31,7 @@
     </item>
     
     <item>
-      <title>Intimacy</title>
-      <link>https://lucynaess.github.io/disconnected/tags/intimacy/</link>
-      <pubDate>Mon, 01 May 2017 02:03:09 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/intimacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>https://lucynaess.github.io/disconnected/tags/life/</link>
-      <pubDate>Wed, 18 Oct 2017 03:10:32 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Love</title>
-      <link>https://lucynaess.github.io/disconnected/tags/love/</link>
-      <pubDate>Fri, 02 Feb 2018 02:45:49 -0500</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/love/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noise</title>
-      <link>https://lucynaess.github.io/disconnected/tags/noise/</link>
-      <pubDate>Sun, 05 Nov 2017 15:28:28 -0500</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/noise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Racing</title>
-      <link>https://lucynaess.github.io/disconnected/tags/racing/</link>
-      <pubDate>Tue, 11 Jul 2017 08:35:07 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/racing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regret</title>
-      <link>https://lucynaess.github.io/disconnected/tags/regret/</link>
-      <pubDate>Wed, 18 Oct 2017 03:10:32 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/regret/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relaionships</title>
-      <link>https://lucynaess.github.io/disconnected/tags/relaionships/</link>
-      <pubDate>Thu, 27 Apr 2017 01:55:31 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/relaionships/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relationships</title>
+      <title>relationships</title>
       <link>https://lucynaess.github.io/disconnected/tags/relationships/</link>
       <pubDate>Tue, 22 May 2018 04:27:40 -0400</pubDate>
       
@@ -256,43 +40,34 @@
     </item>
     
     <item>
-      <title>Sex</title>
-      <link>https://lucynaess.github.io/disconnected/tags/sex/</link>
-      <pubDate>Tue, 05 Sep 2017 04:12:22 -0400</pubDate>
+      <title>choices</title>
+      <link>https://lucynaess.github.io/disconnected/tags/choices/</link>
+      <pubDate>Wed, 21 Mar 2018 02:04:04 -0400</pubDate>
       
-      <guid>https://lucynaess.github.io/disconnected/tags/sex/</guid>
+      <guid>https://lucynaess.github.io/disconnected/tags/choices/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sleep</title>
-      <link>https://lucynaess.github.io/disconnected/tags/sleep/</link>
-      <pubDate>Sat, 29 Apr 2017 01:35:01 -0400</pubDate>
+      <title>waiting</title>
+      <link>https://lucynaess.github.io/disconnected/tags/waiting/</link>
+      <pubDate>Wed, 21 Mar 2018 02:04:04 -0400</pubDate>
       
-      <guid>https://lucynaess.github.io/disconnected/tags/sleep/</guid>
+      <guid>https://lucynaess.github.io/disconnected/tags/waiting/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stigma</title>
-      <link>https://lucynaess.github.io/disconnected/tags/stigma/</link>
-      <pubDate>Tue, 02 May 2017 01:58:46 -0400</pubDate>
+      <title>anxiety</title>
+      <link>https://lucynaess.github.io/disconnected/tags/anxiety/</link>
+      <pubDate>Thu, 15 Mar 2018 01:44:25 -0400</pubDate>
       
-      <guid>https://lucynaess.github.io/disconnected/tags/stigma/</guid>
+      <guid>https://lucynaess.github.io/disconnected/tags/anxiety/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thoughts</title>
-      <link>https://lucynaess.github.io/disconnected/tags/thoughts/</link>
-      <pubDate>Tue, 11 Jul 2017 08:35:07 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transgender</title>
+      <title>transgender</title>
       <link>https://lucynaess.github.io/disconnected/tags/transgender/</link>
       <pubDate>Thu, 15 Mar 2018 01:44:25 -0400</pubDate>
       
@@ -301,7 +76,187 @@
     </item>
     
     <item>
-      <title>Trust</title>
+      <title>depersonalization</title>
+      <link>https://lucynaess.github.io/disconnected/tags/depersonalization/</link>
+      <pubDate>Fri, 02 Feb 2018 02:53:58 -0500</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/depersonalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dissociation</title>
+      <link>https://lucynaess.github.io/disconnected/tags/dissociation/</link>
+      <pubDate>Fri, 02 Feb 2018 02:53:58 -0500</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/dissociation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>confusion</title>
+      <link>https://lucynaess.github.io/disconnected/tags/confusion/</link>
+      <pubDate>Fri, 02 Feb 2018 02:45:49 -0500</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/confusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exhaustion</title>
+      <link>https://lucynaess.github.io/disconnected/tags/exhaustion/</link>
+      <pubDate>Fri, 02 Feb 2018 02:45:49 -0500</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/exhaustion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>https://lucynaess.github.io/disconnected/tags/love/</link>
+      <pubDate>Fri, 02 Feb 2018 02:45:49 -0500</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>background</title>
+      <link>https://lucynaess.github.io/disconnected/tags/background/</link>
+      <pubDate>Sun, 05 Nov 2017 15:28:28 -0500</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noise</title>
+      <link>https://lucynaess.github.io/disconnected/tags/noise/</link>
+      <pubDate>Sun, 05 Nov 2017 15:28:28 -0500</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bravado</title>
+      <link>https://lucynaess.github.io/disconnected/tags/bravado/</link>
+      <pubDate>Wed, 18 Oct 2017 03:10:32 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/bravado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>healing</title>
+      <link>https://lucynaess.github.io/disconnected/tags/healing/</link>
+      <pubDate>Wed, 18 Oct 2017 03:10:32 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/healing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://lucynaess.github.io/disconnected/tags/life/</link>
+      <pubDate>Wed, 18 Oct 2017 03:10:32 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regret</title>
+      <link>https://lucynaess.github.io/disconnected/tags/regret/</link>
+      <pubDate>Wed, 18 Oct 2017 03:10:32 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/regret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gender</title>
+      <link>https://lucynaess.github.io/disconnected/tags/gender/</link>
+      <pubDate>Tue, 05 Sep 2017 04:12:22 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sex</title>
+      <link>https://lucynaess.github.io/disconnected/tags/sex/</link>
+      <pubDate>Tue, 05 Sep 2017 04:12:22 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>racing</title>
+      <link>https://lucynaess.github.io/disconnected/tags/racing/</link>
+      <pubDate>Tue, 11 Jul 2017 08:35:07 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/racing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>https://lucynaess.github.io/disconnected/tags/thoughts/</link>
+      <pubDate>Tue, 11 Jul 2017 08:35:07 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>busy</title>
+      <link>https://lucynaess.github.io/disconnected/tags/busy/</link>
+      <pubDate>Sun, 25 Jun 2017 03:05:56 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/busy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hiatus</title>
+      <link>https://lucynaess.github.io/disconnected/tags/hiatus/</link>
+      <pubDate>Sun, 25 Jun 2017 03:05:56 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/hiatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dyshporia</title>
+      <link>https://lucynaess.github.io/disconnected/tags/dyshporia/</link>
+      <pubDate>Sun, 25 Jun 2017 02:59:46 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/dyshporia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>discrimination</title>
+      <link>https://lucynaess.github.io/disconnected/tags/discrimination/</link>
+      <pubDate>Sat, 06 May 2017 02:07:18 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/discrimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dysphoria</title>
+      <link>https://lucynaess.github.io/disconnected/tags/dysphoria/</link>
+      <pubDate>Sat, 06 May 2017 02:07:18 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/dysphoria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trust</title>
       <link>https://lucynaess.github.io/disconnected/tags/trust/</link>
       <pubDate>Thu, 04 May 2017 01:20:16 -0400</pubDate>
       
@@ -310,11 +265,56 @@
     </item>
     
     <item>
-      <title>Waiting</title>
-      <link>https://lucynaess.github.io/disconnected/tags/waiting/</link>
-      <pubDate>Wed, 21 Mar 2018 02:04:04 -0400</pubDate>
+      <title>crossdressing</title>
+      <link>https://lucynaess.github.io/disconnected/tags/crossdressing/</link>
+      <pubDate>Tue, 02 May 2017 01:58:46 -0400</pubDate>
       
-      <guid>https://lucynaess.github.io/disconnected/tags/waiting/</guid>
+      <guid>https://lucynaess.github.io/disconnected/tags/crossdressing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stigma</title>
+      <link>https://lucynaess.github.io/disconnected/tags/stigma/</link>
+      <pubDate>Tue, 02 May 2017 01:58:46 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/stigma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intimacy</title>
+      <link>https://lucynaess.github.io/disconnected/tags/intimacy/</link>
+      <pubDate>Mon, 01 May 2017 02:03:09 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/intimacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sleep</title>
+      <link>https://lucynaess.github.io/disconnected/tags/sleep/</link>
+      <pubDate>Sat, 29 Apr 2017 01:35:01 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abuse</title>
+      <link>https://lucynaess.github.io/disconnected/tags/abuse/</link>
+      <pubDate>Fri, 28 Apr 2017 03:37:59 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/abuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relaionships</title>
+      <link>https://lucynaess.github.io/disconnected/tags/relaionships/</link>
+      <pubDate>Thu, 27 Apr 2017 01:55:31 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/tags/relaionships/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Disconnected</title>
@@ -7,39 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright Lucrèce Skylar Næss 2018</copyright>
+    <lastBuildDate>Tue, 22 May 2018 04:27:40 -0400</lastBuildDate>
     
 	<atom:link href="https://lucynaess.github.io/disconnected/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>General Complaints</title>
-      <link>https://lucynaess.github.io/disconnected/categories/general-complaints/</link>
-      <pubDate>Sat, 29 Apr 2017 01:35:01 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/categories/general-complaints/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental Health</title>
-      <link>https://lucynaess.github.io/disconnected/categories/mental-health/</link>
-      <pubDate>Wed, 21 Mar 2018 02:04:04 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/categories/mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nsfw</title>
-      <link>https://lucynaess.github.io/disconnected/categories/nsfw/</link>
-      <pubDate>Tue, 02 May 2017 01:58:46 -0400</pubDate>
-      
-      <guid>https://lucynaess.github.io/disconnected/categories/nsfw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relationships</title>
+      <title>relationships</title>
       <link>https://lucynaess.github.io/disconnected/categories/relationships/</link>
       <pubDate>Tue, 22 May 2018 04:27:40 -0400</pubDate>
       
@@ -48,11 +22,38 @@
     </item>
     
     <item>
-      <title>Transition</title>
+      <title>mental health</title>
+      <link>https://lucynaess.github.io/disconnected/categories/mental-health/</link>
+      <pubDate>Wed, 21 Mar 2018 02:04:04 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/categories/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transition</title>
       <link>https://lucynaess.github.io/disconnected/categories/transition/</link>
       <pubDate>Thu, 15 Mar 2018 01:44:25 -0400</pubDate>
       
       <guid>https://lucynaess.github.io/disconnected/categories/transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nsfw</title>
+      <link>https://lucynaess.github.io/disconnected/categories/nsfw/</link>
+      <pubDate>Tue, 02 May 2017 01:58:46 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/categories/nsfw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>general complaints</title>
+      <link>https://lucynaess.github.io/disconnected/categories/general-complaints/</link>
+      <pubDate>Sat, 29 Apr 2017 01:35:01 -0400</pubDate>
+      
+      <guid>https://lucynaess.github.io/disconnected/categories/general-complaints/</guid>
       <description></description>
     </item>
     
