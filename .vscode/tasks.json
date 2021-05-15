@@ -4,22 +4,15 @@
         {
             "label": "Preview",
             "type": "process",
-            "command": "podman",
+            "command": "hugo",
             "group": {
                 "kind": "test",
                 "isDefault": true
             },
             "args": [
-                "run",
-                "--rm",
-                "--net=host",
-                "--name=hp",
-                "-v",
-                "${workspaceFolder}:/workspace:z",
-                "quay.io/adrianlucrececeleste/alpine-hugo:latest",
                 "serve",
                 "--theme=kiss",
-                "--source=/workspace/source",
+                "--source=source",
                 "--buildDrafts"
             ],
             "problemMatcher": []
@@ -27,18 +20,11 @@
         {
             "label": "Build Blog",
             "type": "process",
-            "command": "podman",
+            "command": "hugo",
             "args": [
-                "run",
-                "--rm",
-                "--net=host",
-                "--name=hb-$(git rev-parse HEAD)",
-                "-v",
-                "${workspaceFolder}:/workspace:z",
-                "quay.io/adrianlucrececeleste/alpine-hugo:latest",
                 "--cleanDestinationDir",
-                "--source=/workspace/source",
-                "--destination=/workspace/docs",
+                "--source=source",
+                "--destination=../docs",
                 "--theme=kiss",
             ],
             "problemMatcher": [],
