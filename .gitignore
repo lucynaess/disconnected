@@ -1,3 +1,4 @@
 *.bak
 .venv
 hugo
+.DS_Store
